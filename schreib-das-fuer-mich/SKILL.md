@@ -1,6 +1,6 @@
 ---
 name: schreib-das-fuer-mich
-description: Helps write, rewrite, or improve everyday texts like emails, letters, messages, excuses, complaints, and formal documents. Use when the user asks to write, rewrite, improve, or simplify any kind of text or message.
+description: Helps write, rewrite, or improve everyday texts like emails, letters, messages, excuses, complaints, and formal documents.
 ---
 
 # Schreib das für mich – Everyday Writing Assistant
